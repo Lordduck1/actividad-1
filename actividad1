@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad01</title>
+</head>
+
+<body>
+    <header>
+        <img src="Images1.png" alt="su dispositovo no soporta la imagen">
+        <nav>
+            <ul>
+                <li><a href="">VISTAS 3D</a></li>
+                <li><a href="">ENTORNO 360°</a></li>
+                <li><a href="">STREAMING Y CHROMA KEY</a></li>
+                <li><a href="">RUEDAS DE NEGOCIOS</a></li>
+                <li><a href="">EVENTOS REALIZADOS</a></li>
+            </ul>
+        </nav>
+        <section>
+            <div>
+                <h1>¡Haz que tu<br><b>evento sea</b><br><b>virtual!</b></h1>
+                <p>Con mayor alcance de participantes a nivel mundial, en diferentes idiomas, con diversas actividades y
+                    con métricas más detalladas y precisas, a menores costos. </p>
+                <p>Nuestros más de 10 años de experiencia en la producción garantizaran el éxito de tu evento.</p>
+            </div>
+        </section>
+        <section>
+            <form action="">
+                <div>
+                    <h2>¡Cotiza aquí tu <br><b> evento virtual!</b></h2>
+                    <p>Empecemos hoy la producción de tu evento</p>
+                </div>
+                <div>
+                    <select name="" id="">
+                        <option value="" selected disabled hidden>Tipo de evento virtual</option>
+                        <option value="">Evento Vistas 3D</option>
+                        <option value="">Evento Entorno 360</option>
+                        <option value="">Streaming y Chroma Key</option>
+                    </select>
+                </div>
+                <div>
+                    <input type="text" name="" id="" placeholder="Ingresa tu Nombre y Apellido">
+                </div>
+                <div>
+                    <input type="number" name="" id="" placeholder="Ingresa tu Teléfono">
+                </div>
+                <div>
+                    <input type="email" name="" id="" placeholder="Ingresa tu Correo">
+                </div>
+                <div>
+                    <input type="text" name="" id="" placeholder="Ingresa tu Pais">
+                </div>
+                <div>
+                    <textarea name="" id="" placeholder="Ingresa tus Comentarios"></textarea>
+                </div>
+                <div>
+                    <button type="submit">ENVIAR</button>
+                </div>
+            </form>
+        </section>
+        <section>
+            <h2>Mira nuestros videos</h2>
+            <div>
+                <img src="Video1.png" alt="su dispositovo no soporta la imagen">
+                <h3>vistas 3D</h3>
+                <div>
+                    <img src="Video2.png" alt="su dispositovo no soporta la imagen">
+                    <h3>entorno 360</h3>
+                </div>
+                <div>
+                    <img src="Video3.png" alt="su dispositovo no soporta la imagen">
+                    <h3>streming y chroma key</h3>
+                </div>
+            </div>
+        </section>
+        <section>
+            <h2>EVENTOS CON VISTAS 3D</h2>
+            <p>Lleva tu evento a otro nivel, utiliza una locación virtual con vistas 3D personalizando cada espacio con
+                la marca de tu evento, podrás tener Lobby, Auditorios, Pabellones de Feria, Stands, Networking, Sala de
+                Citas de Negocios; se puede habilitar cualquier espacio que tu evento requiera.</p>
+            <p>Elaboramos un Landing page de tu evento para que los participantes puedan registrarse y recorrer cada
+                espacio y tener una experiencia similar a la que se vivirían en un evento presencial, participando en
+                cada actividad y teniendo interacción. Pudiendo acceder desde cualquier dispositivo móvil o computadora.
+            </p>
+            <div>
+                <img src="IMG 01.png" alt="su dispositovo no soporta la imagen">
+                <img src="IMG 02.png" alt="su dispositovo no soporta la imagen">
+                <img src="IMG 03.png" alt="su dispositovo no soporta la imagen">
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos modi maiores officia reiciendis
+                    architecto quo veniam eius iste vitae dolor aliquam, ab eligendi, ratione inventore quod ea?
+                    Adipisci, voluptatem aut?</p>
+                <ul>
+                    <li>Ferias</li>
+                    <li>Conferencias</li>
+                    <li>Encuentros Corporativos</li>
+                    <li>Seminarios Web</li>
+                </ul>
+                <h4>Puede Contratar</h4>
+                <ol>
+                    <li>Alquiler del Centro de Convenciones Virtual KMJK</li>
+                    <li>Adquiere una licencia de la plataforma 6Connex</li>
+                </ol>
+                <h4>Licencia de la Plataforma 6connex</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus similique vel inventore? Illo
+                    reprehenderit ipsa tempora officia. Eius doloribus facere esse, beatae voluptatibus aliquam
+                    praesentium ex! Quisquam laborum corporis ab.</p>
+                <h4>¿ Por que 6Connex?</h4>
+                <ul>
+                    <li> 11 años de trayectoria en la realizacíon de eventos virtuales</li>
+                    <li> + de 600.000 mil eventos realizados</li>
+                    <li> Con tecnología HTML5</li>
+                    <li> Servidores globales redundantes</li>
+                    <li> Data encriptada</li>
+                    <li> Templates personalizables con los colores de tu marca</li>
+                    <img src="image 158.png" alt="su dispositovo no soporta la imagen">
+                </ul>
+            </div>
+        </section>
+    </header>
+</body>
+
+</html>
